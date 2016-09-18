@@ -1,4 +1,5 @@
 #Robotics_Demo
+These demo codes is developed by Chang Yu Hsuan
 
 ##Introduction:
 The main purpose of this demonstration is to recognize color patches on the cars and ball, and find a path by A* algorithm in further.
